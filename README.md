@@ -1,6 +1,6 @@
 # All Rivers and lakes in the U.S. 
 
-![us-rivers](images/us-freshwater-HD.png)
+![us-rivers](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-freshwater-HD.png)
 
 *Source: [OpenStreetMap](http://www.osm.org)*
 
@@ -8,7 +8,7 @@
 
 
 
-A map of all Rivers and lakes in the U.S. as rendered from [OpenStreetMap](http://www.osm.org) data.
+## A map of all Rivers and lakes in the U.S. as rendered from [OpenStreetMap](http://www.osm.org) data.
 
 There is a few river and waterbasin maps floating around the net such as these from  [Nelson Minar](https://github.com/NelsonMinar/vector-river-map)
 or [Mike Bostock](https://github.com/mbostock/us-rivers), also Prints from [Muir Way](https://muir-way.com/collections/hydrology-series) 
@@ -23,12 +23,12 @@ it seems they are currently not consistently traced and tagged across the U.S.
 With slight modifications you can run it over all 'highways' as well to get all roads.
 See this remake of Ben Fry's legendary [All Streets](https://benfry.com/allstreets/map5.html) with OSM data ...
 
-![us-roads](images/us-roads-HD.png)
-*Also available in [larger resolution](images/us-roads.png)*
+![us-roads](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-roads-HD.png)
+*Also available in [larger resolution](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-roads.png)*
 
 ... compare this to the States' railway network  ...
 
-![us-roads](images/us-railways-HD.png)
-*Also available in [larger resolution](images/us-railways.png)*
+![us-railways](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-railways-HD.png)
+*Also available in [larger resolution](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-railways.png)*
 
 .. Duh...
