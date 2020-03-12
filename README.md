@@ -2,13 +2,12 @@
 
 ![us-rivers](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-freshwater-HD.png)
 
-*Source: [OpenStreetMap](http://www.osm.org)*
-
-*By [Michael Aschauer](https://m.ash.to/)*
-
+*Map data: [OpenStreetMap](http://www.osm.org)*
 
 
 ### A map of all Rivers and lakes in the U.S. as rendered from [OpenStreetMap](http://www.osm.org) data.
+
+*By [Michael Aschauer](https://m.ash.to/)*
 
 There is a few river and waterbasin maps floating around the net such as these from  [Nelson Minar](https://github.com/NelsonMinar/vector-river-map)
 or [Mike Bostock](https://github.com/mbostock/us-rivers), also Prints from [Muir Way](https://muir-way.com/collections/hydrology-series) 
@@ -28,3 +27,9 @@ See this remake of Ben Fry's legendary [All Streets](https://benfry.com/allstree
 ![us-railways](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-railways-HD.png)
 
 .. Duh...
+
+Also available in large resolution (8196 x 5530 px):
+* [us-freshwaters](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-freshwater.png)
+* [us-roads](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-roads.png)
+* [us-railways](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-railways.png)
+
