@@ -18,17 +18,13 @@ Not every desert wash, that floods once a year and stays dry the rest of it, wil
 but only rivers and freshwater body that were traced and tagged on OSM.  Streams weren't actually included in this rendering as 
 it seems they are currently not consistently traced and tagged across the U.S.
 
-*See also in [larger resolution](images/us-freshwater.png)*
-
 With slight modifications you can run it over all 'highways' as well to get all roads.
 See this remake of Ben Fry's legendary [All Streets](https://benfry.com/allstreets/map5.html) with OSM data ...
 
 ![us-roads](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-roads-HD.png)
-*Also available in [larger resolution](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-roads.png)*
 
 ... compare this to the States' railway network  ...
 
 ![us-railways](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-railways-HD.png)
-*Also available in [larger resolution](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-railways.png)*
 
 .. Duh...
