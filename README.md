@@ -28,8 +28,3 @@ See this remake of Ben Fry's legendary [All Streets](https://benfry.com/allstree
 
 .. Duh...
 
-Also available in large resolution (8196 x 5530 px):
-* [us-freshwaters](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-freshwater.png)
-* [us-roads](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-roads.png)
-* [us-railways](https://raw.githubusercontent.com/backface/us-freshwater/master/images/us-railways.png)
-
