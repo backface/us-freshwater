@@ -8,7 +8,7 @@
 
 
 
-All Rivers and lakes in the U.S. as rendered from [OpenStreetMap](http://www.osm.org) data.
+A map of all Rivers and lakes in the U.S. as rendered from [OpenStreetMap](http://www.osm.org) data.
 
 There is a few river and waterbasin maps floating around the net such as these from  [Nelson Minar](https://github.com/NelsonMinar/vector-river-map)
 or [Mike Bostock](https://github.com/mbostock/us-rivers), also Prints from [Muir Way](https://muir-way.com/collections/hydrology-series) 
