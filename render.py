@@ -89,6 +89,7 @@ def main():
           geom.Transform(transform)
           points = list(map(lambda p: ((p[0]- Xmin) / pixel_size, (Ymax - p[1]) / pixel_size), geom.GetPoints()))
            
+          
           # this is for rivers and streams
           if feature.GetFieldIndex("waterway"):
             if feature.GetField(feature.GetFieldIndex("waterway")) == "river":
@@ -101,21 +102,21 @@ def main():
               pass
            
           # this if for roads  
-          if feature.GetFieldIndex("highway"):
-            if feature.GetField(feature.GetFieldIndex("highway")) == "motorway":
-              linestring(points, (0,0,0, 255), 4)
-            elif feature.GetField(feature.GetFieldIndex("highway")) == "primary":
-              linestring(points, (0,0,0, 255), 3)
-            elif feature.GetField(feature.GetFieldIndex("highway")) == "secondary":
-              linestring(points, (0,0,0, 255), 2)
-            elif feature.GetField(feature.GetFieldIndex("highway")):
-              linestring(points, (0,0,0, 255), 1)
+          #if feature.GetFieldIndex("highway"):
+          #  if feature.GetField(feature.GetFieldIndex("highway")) == "motorway":
+          #    linestring(points, primary_color, 4)
+          #  elif feature.GetField(feature.GetFieldIndex("highway")) == "primary":
+          #    linestring(points, primary_color, 3)
+          #  elif feature.GetField(feature.GetFieldIndex("highway")) == "secondary":
+          #    linestring(points, primary_color, 2)
+          #  elif feature.GetField(feature.GetFieldIndex("highway")):
+          #    linestring(points, primary_color, 1)
               
-          if feature.GetFieldIndex("railway"):
-              linestring(points, (0,0,0, 255), 1)
-              
-          if feature.GetFieldIndex("pipepline"):
-              linestring(points, (0,0,0, 255), 1)              
+          #if feature.GetFieldIndex("railway"):
+          #    linestring(points, primary_color, 1)
+          #    
+          #if feature.GetFieldIndex("pipepline"):
+          #    linestring(points, primary_color, 1)              
   
         # Polygons? Haven't seen them yet.
         elif geom.GetGeometryName() == "POLYGON":
